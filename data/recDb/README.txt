@@ -1,0 +1,1 @@
+Databases of recoded peptides are stored in this directory in FASTA format. Indexing by (Phospho-)MSGF+ creates additional files here, which the user interface will attempt to remove when using the delete function.

@@ -1,0 +1,10 @@
+/nbproject/
+/build/
+/dist/
+/results/
+/private/
+build.xml
+manifest.mf
+/**.tdv
+/**.mgf
+/**.mzid

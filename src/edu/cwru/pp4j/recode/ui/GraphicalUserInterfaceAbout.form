@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+    <Property name="title" type="java.lang.String" value="About"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" pref="576" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" pref="376" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;&#xa;&lt;center&gt;&lt;strong&gt;PhosphoRecoderSE&lt;/strong&gt;&lt;/center&gt;&#xa;&lt;pre&gt;&#xa;Copyright 2018 Case Western Reserve University&#xa; &#xa;Permission is hereby granted, free of charge, to any person obtaining a copy &#xa;of this software and associated documentation files (the &quot;Software&quot;), to deal&#xa;in the Software without restriction, including without limitation the rights &#xa;to use, copy, modify, merge, publish, distribute, sublicense, and/or sell &#xa;copies of the Software, and to permit persons to whom the Software is &#xa;furnished to do so, subject to the following conditions:&#xa;&#xa;The above copyright notice and this permission notice shall be included in &#xa;all copies or substantial portions of the Software.&#xa;&#xa;THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR &#xa;IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, &#xa;FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE &#xa;AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER &#xa;LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,&#xa;OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE&#xa;SOFTWARE.&lt;/pre&gt;&#xa;&lt;hr /&gt;&#xa;&lt;br/&gt;&#xa;&lt;center&gt;&lt;strong&gt;MS-GF+&lt;/strong&gt;&lt;/center&gt; &lt;pre&gt; &lt;em&gt;Publications:&lt;/em&gt; &lt;ul&gt;   &lt;li&gt;MS-GF+: Universal Database Search Tool for Mass Spectrometry, &lt;br/&gt;          Sangtae Kim, Pavel A. Pevzner,Nat Commun. 2014 Oct 31;5:5277.&lt;br/&gt;         doi: 10.1038/ncomms6277.&lt;br/&gt;         http://www.ncbi.nlm.nih.gov/pubmed/?term=25358478&lt;/li&gt;   &lt;li&gt;Spectral Probabilities and Generating Functions of Tandem Mass&lt;br/&gt;          Spectra: A Strike against Decoy Databases, Sangtae Kim, Nitin Gupta &lt;br/&gt;          and Pavel Pevzner, J Proteome Res. 2008 Aug;7(8):3354-63. &lt;br/&gt;          doi: 10.1021/pr8001244.&lt;br/&gt;         http://www.ncbi.nlm.nih.gov/pubmed/?term=18597511&lt;/li&gt; &lt;/ul&gt;  &lt;em&gt;Documentation and Binaries:&lt;/em&gt;&lt;br/&gt; &lt;a href=&quot;https://omics.pnl.gov/software/ms-gf&quot;&gt;https://omics.pnl.gov/software/ms-gf&lt;/a&gt;&lt;br/&gt; &lt;br/&gt; Source Code:&lt;br/&gt; &lt;a href=&quot;https://github.com/sangtaekim/msgfplus&quot;&gt;https://github.com/sangtaekim/msgfplus&lt;/a&gt;&lt;br/&gt; &lt;br/&gt; &lt;em&gt;Disclaimer&lt;/em&gt;&lt;br/&gt; These programs are primarily designed to run on Windows machines. Please use &lt;br/&gt; them at your own risk. This material was prepared as an account of work&lt;br/&gt; sponsored by an agency of the United States Government. Neither the United &lt;br/&gt; States Government nor the United States Department of Energy, nor Battelle, nor&lt;br/&gt; any of their employees, makes any warranty, express or implied, or assumes any&lt;br/&gt; legal liability or responsibility for the accuracy, completeness, or usefulness or any&lt;br/&gt; information, apparatus, product, or process disclosed, or represents that its use&lt;br/&gt; would not infringe privately owned rights.&lt;br/&gt; &lt;br/&gt; Portions of this research were supported by the NIH National Center for Research&lt;br/&gt; Resources (Grant RR018522), the W.R. Wiley Environmental Molecular Science&lt;br/&gt; Laboratory (a national scientific user facility sponsored by the U.S. Department of&lt;br/&gt; Energy&apos;s Office of Biological and Environmental Research and located at PNNL),&lt;br/&gt; and the National Institute of Allergy and Infectious Diseases (NIH/DHHS through&lt;br/&gt; interagency agreement Y1-AI-4894-01). PNNL is operated by Battelle Memorial&lt;br/&gt; Institute for the U.S. Department of Energy under contract DE-AC05-76RL0 1830.&lt;br/&gt; &lt;br/&gt; We would like your feedback about the usefulness of the tools and information&lt;br/&gt; provided by the Resource. Your suggestions on how to increase their value to you&lt;br/&gt; will be appreciated. Please e-mail any comments to proteomics@pnl.gov&lt;br/&gt;  &lt;/pre&gt; &lt;/html&gt;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

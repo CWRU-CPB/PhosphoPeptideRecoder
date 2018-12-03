@@ -1,0 +1,5 @@
+Oxidation	O1	M	opt	Any	Oxidation
+Acetylation	C2H2O1	K	opt	Any	Acetyl
+Methylation	CH2	K	opt	Any	Methyl
+Phosphorylation	HO3P	STY	opt	Any	Phospho
+Carbamidomethyl	C2H3N1O1	C	fix	Any	Carbamidomethyl
